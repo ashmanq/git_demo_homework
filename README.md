@@ -1,5 +1,5 @@
 # Git Demo
-This repository was created to help me understand Git by carrying out the following:
+This app was created to help me understand Git by carrying out the following:
 ## Locally
 * Creating a folder
 * Initiliazing a git repository
